@@ -12,7 +12,7 @@
 
 > The clone is integrated with Sanity CMS. Data is fetched using Incremental Static Regeneration and Server-side Rendering making it extremely performant and quick.
 
-### ✨ [Live Demo](https://shubh73-medium.vercel.app/)
+### ✨ [Live Demo]
 
 ## Getting Started 
 
